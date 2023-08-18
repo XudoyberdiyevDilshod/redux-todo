@@ -1,0 +1,15 @@
+{
+  "users": [],
+  "todos": [
+    {
+      "text": "Assalom",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "text": "efwf",
+      "isCompleted": false,
+      "id": 2
+    }
+  ]
+}
